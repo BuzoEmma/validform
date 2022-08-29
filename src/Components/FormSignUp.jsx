@@ -1,5 +1,4 @@
 import React from "react";
-import  '../App.css'
 import useForm from "./useForm";
 import validateInofr from "./ValideteInfor";
 const FormSignUp = ({submitForm}) => {
